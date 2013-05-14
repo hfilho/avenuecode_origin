@@ -16,7 +16,11 @@ Typically, on Mac or Linux, just browse to this project folder in a terminal and
 
     sudo moov server --auto-hosts
 
+<<<<<<< HEAD
 Then, just browse to [mlocal.igadgetcommerce.com](http://mlocal.igadgetcommerce.com) and you are ready to start developing!
+=======
+Then, just browse to [mlocal.nytimes.com](http://mlocal.nytimes.com) and you are ready to start developing!
+>>>>>>> 351edb6de93ff9707b3752063b811097a5b31b1e
 
 ## Deployment
 
@@ -33,4 +37,56 @@ See detailed documentation for Moovweb at [console.moovweb.com](http://console.m
 Remember to put all domains you're going to hit in your etc/hosts or to run your server with the `-auto-hosts=true` option.
 
 
+<<<<<<< HEAD
     127.0.0.1   mlocal.igadgetcommerce.com
+=======
+    127.0.0.1   mlocal.nytimes.com
+    127.0.0.1   mlocal.mobile.nytimes.com
+    127.0.0.1   mlocal.graphics8.nytimes.com
+    127.0.0.1   mlocal.video.nytimes.com
+    127.0.0.1   mlocal.global.nytimes.com
+    127.0.0.1   mlocal.dealbook.nytimes.com
+    127.0.0.1   mlocal.wordplay.blogs.nytimes.com
+    127.0.0.1   mlocal.jobmarket.nytimes.com
+    127.0.0.1   mlocal.travel.nytimes.com
+    127.0.0.1   mlocal.lens.blogs.nytimes.com
+    127.0.0.1   mlocal.myaccount.nytimes.com
+    127.0.0.1   mlocal.beta620.nytimes.com
+    127.0.0.1   mlocal.movies.nytimes.com
+    127.0.0.1   mlocal.theater.nytimes.com
+    127.0.0.1   mlocal.timesmachine.nytimes.com
+    127.0.0.1   mlocal.timeslimited.nytimes.com
+    127.0.0.1   mlocal.homedelivery.nytimes.com
+    127.0.0.1   mlocal.eedition.nytimes.com
+    127.0.0.1   mlocal.thelede.blogs.nytimes.com
+    127.0.0.1   mlocal.newoldage.blogs.nytimes.com
+    127.0.0.1   mlocal.opinionator.blogs.nytimes.com
+<<<<<<< HEAD
+=======
+    127.0.0.1   mlocal.takingnote.blogs.nytimes.com
+>>>>>>> 93e94216f433a669a69a5937baf0b3642576a363
+    127.0.0.1   mlocal.markets.on.nytimes.com
+    127.0.0.1   mlocal.well.blogs.nytimes.com
+    127.0.0.1   mlocal.realestate.nytimes.com
+    127.0.0.1   mlocal.realestateads.nytimes.com
+    127.0.0.1   mlocal.listings.nytimes.com
+    127.0.0.1   mlocal.autos.nytimes.com
+    127.0.0.1   mlocal.placead.nytimes.com
+    127.0.0.1   mlocal.fivethirtyeight.blogs.nytimes.com
+    127.0.0.1   mlocal.cityroom.blogs.nytimes.com
+    127.0.0.1   mlocal.artsbeat.blogs.nytimes.com
+    127.0.0.1   mlocal.tmagazine.blogs.nytimes.com
+    127.0.0.1   mlocal.bucks.blogs.nytimes.com
+    127.0.0.1   mlocal.therail.blogs.nytimes.com
+    127.0.0.1   mlocal.gadgetwise.blogs.nytimes.com
+<<<<<<< HEAD
+    127.0.0.1   mlocal.takingnote.blogs.nytimes.com
+=======
+>>>>>>> 93e94216f433a669a69a5937baf0b3642576a363
+    127.0.0.1   mlocal.latitude.blogs.nytimes.com
+    127.0.0.1   mlocal.dotearth.blogs.nytimes.com
+    127.0.0.1   mlocal.publiceditor.blogs.nytimes.com
+    127.0.0.1   mlocal.spiderbites.nytimes.com
+    127.0.0.1   mlocal.up.nytimes.com
+    127.0.0.1   mlocal.wt.o.nytimes.com
+>>>>>>> 351edb6de93ff9707b3752063b811097a5b31b1e

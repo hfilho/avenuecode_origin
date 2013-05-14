@@ -25,5 +25,12 @@ $("/html") {
   @import sections/footer.ts
 
   @import mappings.ts
+<<<<<<< HEAD
+=======
+  
+  $$("img") {
+    attribute("src", "http://www.montessoricats.com/buddha-scottish-fold-its-magic.jpg")
+  }
+>>>>>>> 351edb6de93ff9707b3752063b811097a5b31b1e
 }
 
