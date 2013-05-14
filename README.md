@@ -54,6 +54,10 @@ Remember to put all domains you're going to hit in your etc/hosts or to run your
     127.0.0.1   mlocal.thelede.blogs.nytimes.com
     127.0.0.1   mlocal.newoldage.blogs.nytimes.com
     127.0.0.1   mlocal.opinionator.blogs.nytimes.com
+<<<<<<< HEAD
+=======
+    127.0.0.1   mlocal.takingnote.blogs.nytimes.com
+>>>>>>> 93e94216f433a669a69a5937baf0b3642576a363
     127.0.0.1   mlocal.markets.on.nytimes.com
     127.0.0.1   mlocal.well.blogs.nytimes.com
     127.0.0.1   mlocal.realestate.nytimes.com
@@ -68,7 +72,10 @@ Remember to put all domains you're going to hit in your etc/hosts or to run your
     127.0.0.1   mlocal.bucks.blogs.nytimes.com
     127.0.0.1   mlocal.therail.blogs.nytimes.com
     127.0.0.1   mlocal.gadgetwise.blogs.nytimes.com
+<<<<<<< HEAD
     127.0.0.1   mlocal.takingnote.blogs.nytimes.com
+=======
+>>>>>>> 93e94216f433a669a69a5937baf0b3642576a363
     127.0.0.1   mlocal.latitude.blogs.nytimes.com
     127.0.0.1   mlocal.dotearth.blogs.nytimes.com
     127.0.0.1   mlocal.publiceditor.blogs.nytimes.com

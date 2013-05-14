@@ -22,6 +22,10 @@
 		"$.thelede.blogs.nytimes.com => thelede.blogs.nytimes.com",
 		"$.newoldage.blogs.nytimes.com => newoldage.blogs.nytimes.com",
 		"$.opinionator.blogs.nytimes.com => opinionator.blogs.nytimes.com",
+<<<<<<< HEAD
+=======
+		"$.takingnote.blogs.nytimes.com => takingnote.blogs.nytimes.com",
+>>>>>>> 93e94216f433a669a69a5937baf0b3642576a363
 		"$.markets.on.nytimes.com => markets.on.nytimes.com",
 		"$.well.blogs.nytimes.com => well.blogs.nytimes.com",
 		"$.realestate.nytimes.com => realestate.nytimes.com",
@@ -36,7 +40,10 @@
 		"$.bucks.blogs.nytimes.com => bucks.blogs.nytimes.com",
 		"$.therail.blogs.nytimes.com => therail.blogs.nytimes.com",
 		"$.gadgetwise.blogs.nytimes.com => gadgetwise.blogs.nytimes.com",
+<<<<<<< HEAD
 		"$.takingnote.blogs.nytimes.com => takingnote.blogs.nytimes.com",
+=======
+>>>>>>> 93e94216f433a669a69a5937baf0b3642576a363
 		"$.latitude.blogs.nytimes.com => latitude.blogs.nytimes.com",
 		"$.dotearth.blogs.nytimes.com => dotearth.blogs.nytimes.com",
 		"$.publiceditor.blogs.nytimes.com => publiceditor.blogs.nytimes.com",
